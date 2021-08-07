@@ -3,6 +3,6 @@ title = "BME 313L - Introduction to Numerical Methods in Biomedical Engineering 
 date = 2021-08-06
 summary = "Department of Biomedical Engineering, The University of Texas at Austin"
 tags = ["teaching"]
-external_link = "https://prashjha.github.io/COE-311K-website/"
-url_code = "https://github.com/prashjha/COE-311K"
+external_link = "https://prashjha.github.io/BME-313L-website/"
+url_code = "https://github.com/prashjha/BME-313L"
 +++
