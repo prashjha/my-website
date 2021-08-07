@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 19  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Grants"
 subtitle = ""
@@ -29,7 +29,7 @@ date_format = "Jan 2006"
 
 +++
 
-### 1. $50,000 (Sep 2020 -- Aug 2021)
+### $50,000 (Sep 2020 -- Aug 2021)
 Title: A mechanistic tumor growth model for HP MRI
 
-Awarded under the MDACC-Oden-TACC joint initiative.
+With David Fuentes at MD Anderson Cancer Center, Houston, USA. Awarded under the MDACC-Oden-TACC joint initiative.

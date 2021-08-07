@@ -1,5 +1,5 @@
 ---
-title: Courses
+title: Teaching
 type: software
 math: true
 
@@ -14,3 +14,4 @@ header:
   caption: ""
   image: ""
 ---
+

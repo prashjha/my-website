@@ -14,7 +14,7 @@ baseurl = "https://prashjha.github.io/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; 2020 [Prashant K. Jha](https://prashjha.github.io/)"
+copyright = "&copy; 2021 [Prashant K. Jha](https://prashjha.github.io/)"
 
 ############################
 ## Advanced options below ##
@@ -24,7 +24,7 @@ copyright = "&copy; 2020 [Prashant K. Jha](https://prashjha.github.io/)"
 theme = "academic"
 
 # Get last modified date for content from Git?
-enableGitInfo = false
+enableGitInfo = true
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"

@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 17  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Professional Responsibilities"
 subtitle = ""
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
 +++
 
 ### 1. Associate Editor
-[**Journal of Peridynamics and Nonlocal Modeling**](https://www.springer.com/journal/42102/)
+[Journal of Peridynamics and Nonlocal Modeling](https://www.springer.com/journal/42102/)
 
 ### 2. Journal Reviews
 CMAME, JMPS, M3AS, JALCOM
