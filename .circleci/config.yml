@@ -22,7 +22,7 @@ jobs:
             # within this repo, pull html file repo
             git clone https://github.com/prashjha/prashjha.github.io.git public
             # build website
-            hugo -F
+            HUGO_ENV="production"  hugo -F
             # commit to website repo
             cd public
             git config user.email "pjha.sci@gmail.com"
