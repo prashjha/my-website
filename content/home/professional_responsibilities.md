@@ -40,7 +40,10 @@ date_format = "Jan 2006"
 +++
 
 ### 1. Associate Editor
-[Journal of Peridynamics and Nonlocal Modeling](https://www.springer.com/journal/42102/)
+[Journal of Peridynamics and Nonlocal Modeling (JPER)](https://www.springer.com/journal/42102/)
 
-### 2. Journal Reviews
+### 2. Topic Editor
+[Journal of Open Source Software (JOSS)](https://joss.theoj.org/about)
+
+### 3. Journal Reviews
 CMAME, JMPS, M3AS, JALCOM
