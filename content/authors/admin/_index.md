@@ -78,11 +78,9 @@ user_groups:
 - Visitors
 ---
 
-I am a Research Associate at the Oden Institute for Computational Engineering and Sciences at the University of Texas at Austin. I received a Ph.D. from Carnegie Mellon University in August 2016. I then worked as a Postdoctoral Scholar at the Department of Mathematics, Louisiana State University.  
+I am a Research Associate at the Oden Institute for Computational Engineering and Sciences at the University of Texas at Austin. I received a Ph.D. from Carnegie Mellon University in August 2016. I then worked as a Postdoctoral Scholar at the Department of Mathematics, Louisiana State University. My research interests are mechanics of solids and granular media and computational oncology. Current work includes developing models of tumor growth and recovery of parameters from the imaging data. 
 
-Current work includes developing models of tumor growth and recovery of model parameters from the imaging data. Of particular interest is angiogenesis, where new blood vessels are formed (and destroyed) in response to various signals from the nutrient-starved tumor cells. We recently got a small grant to develop a PDE-based model for Hyperpolarized (HP) MRI signal recovery. The work on HP MRI is done in collaboration with researchers at the MD Anderson Cancer Center. In addition, I have recently become interested in granular media and associated challenges in model development. Towards this, we have developed a high-fidelity model *PeriDEM* that can handle individual deformation and breakage of arbitrarily shaped particles and the contacts between deforming bodies.
-
-I will be teaching two courses during **Fall 2021** at UT Austin. The two subjects are *Engineering Computation* in Aerospace Engineering and Engineering Mechanics and *Introduction to Numerical Methods in Biomedical Engineering* in Biomedical Engineering. I am serving the [**Journal of Peridynamics and Nonlocal Modeling**](https://www.springer.com/journal/42102/) as one of the associate editors. I am also part of the editorial team of [**Journal of Open Source Software (JOSS)**](https://joss.theoj.org/about) contributing in the role of topic editor.
+I am teaching two courses this **Fall 2021** at UT Austin. I am also serving the [**Journal of Peridynamics and Nonlocal Modeling**](https://www.springer.com/journal/42102/) as one of the associate editors and the [**Journal of Open Source Software (JOSS)**](https://joss.theoj.org/about) as topic editor.
 
 
 

@@ -29,6 +29,11 @@
   weight = 35
 
 [[main]]
+  name = "News"
+  url = "news/"
+  weight = 38
+
+[[main]]
   name = "Talks"
   url = "talk/"
   weight = 40
