@@ -46,4 +46,4 @@ date_format = "Jan 2006"
 [Journal of Open Source Software (JOSS)](https://joss.theoj.org/about)
 
 ### 3. Journal Reviews
-CMAME, JMPS, M3AS, JALCOM
+CMAME, JMPS, SINUM, M3AS, JALCOM, PHYSA, Mathematical Reviews (AMS)
