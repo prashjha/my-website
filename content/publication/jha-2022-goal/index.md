@@ -10,3 +10,5 @@ publication: "*arXiv preprint arXiv:2205.15131*"
 url_source: "https://arxiv.org/abs/2205.15131"
 ---
 
+> To appear in [Journal of Computational Phsysics](https://www.journals.elsevier.com/journal-of-computational-physics)
+
