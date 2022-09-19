@@ -11,4 +11,9 @@ featured: true
 publication: "*Cancers*"
 url_source: "https://www.mdpi.com/2072-6694/13/12/3008"
 doi: "10.3390/cancers13123008"
+tags:
+- Computational Oncology
+- Tumor Growth Modeling
+- Angiogenesis
+- Computational Science
 ---

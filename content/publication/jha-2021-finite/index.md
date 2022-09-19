@@ -9,5 +9,12 @@ featured: true
 publication: "*Discrete & Continuous Dynamical Systems-B*"
 url_source: "http://dx.doi.org/10.3934/dcdsb.2020178"
 doi: "10.3934/dcdsb.2020178"
+tags:
+- Numerical Methods
+- Numerical Analysis
+- Mechanics
+- Peridynamics
+- Fracture Mechanics
+- Finite Element Method
 ---
 

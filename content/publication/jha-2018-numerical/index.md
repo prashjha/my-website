@@ -9,5 +9,11 @@ featured: true
 publication: "*SIAM Journal on Numerical Analysis*"
 url_source: "https://doi.org/10.1137/17M1112236"
 doi: "10.1137/17M1112236"
+tags:
+- Numerical Methods
+- Numerical Analysis
+- Mechanics
+- Peridynamics
+- Fracture Mechanics
 ---
 
