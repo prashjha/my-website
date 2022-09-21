@@ -18,13 +18,14 @@ organizations:
   url: "https://www.utexas.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is driven by the application of mathematics and computational science to present-day relevant and challeng- ing problems. Specific areas of interest include mechanics of solids and granular media, computational oncology, and multiscale modeling.
+bio: My research focuses on using mechanics, mathematics, and computational science to understand and represent the complex behavior of materials, e.g., crack propagation in solids and granular media. My research interests include solids and granular media mechanics, computational oncology, uncertainty quantification, and multiscale modeling. 
 
 interests:
 - Mechanics of Solids and Granular Media
 - Computational Oncology
+- Uncertainty Quantification
 - Multiscale Modeling
-- Artificial Neural Networks
+- Application of Neural Networks to Mechanics Problems
 
 
 education:
@@ -78,7 +79,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Research Associate at the Oden Institute for Computational Engineering and Sciences at the University of Texas at Austin. I received a Ph.D. from Carnegie Mellon University in August 2016. I then worked as a Postdoctoral Scholar at the Department of Mathematics, Louisiana State University. My research interests are mechanics of solids and granular media and computational oncology. Current work includes developing models of tumor growth and recovery of parameters from the imaging data. 
+I am a Research Associate at the Oden Institute for Computational Engineering and Sciences at the University of Texas at Austin. I received a Ph.D. from Civil and Environmental Engineering, Carnegie Mellon University, in August 2016. After finishing my Ph.D., I joined the Department of Mathematics at Louisiana State University as a Postdoctoral Fellow and worked on numerical methods and analysis of the peridynamics theory of fracture. I moved to UT Austin in August 2019 to further expand my expertise and knowledge in computational mechanics. My research interests include solids and granular media mechanics, computational oncology, uncertainty quantification, and multiscale modeling. 
 
 Last year in Fall, I taught two undergraduate courses on numerical methods. I am also serving the [**Journal of Peridynamics and Nonlocal Modeling**](https://www.springer.com/journal/42102/) as one of the associate editors and the [**Journal of Open Source Software (JOSS)**](https://joss.theoj.org/about) as topic editor.
 
