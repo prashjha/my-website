@@ -10,7 +10,7 @@ summary = "Peridynamics-based discrete element method for granular media"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["peridyamics", "nonlocal", "computational mechanics", "programming", "granular media", "discrete-element method"]
+tags = ["peridynamics", "nonlocal", "computational mechanics", "programming", "granular media", "discrete-element method"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
