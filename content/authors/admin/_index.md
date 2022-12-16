@@ -18,7 +18,7 @@ organizations:
   url: "https://www.utexas.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on using mechanics, applied mathematics, and computational science to understand and represent the complex behavior of materials, e.g., crack propagation in structures, multiphysics effects in material responses, and granular media. My research interests include mechanics of solids and granular media, multiphysics and multiscale modeling of engineering and biomedical systems, uncertainty quantification, and applications and advancement of neural networks to engineering problems. 
+bio: My research focuses on using mechanics, applied mathematics, and computational science to understand and represent the complex behavior of materials, e.g., crack propagation and multiphysics effects in materials and particle breakage and interlocking in granular media. My research expertise and interests include mechanics of solids and granular media, multiphysics and multiscale modeling of engineering and biomedical systems, uncertainty quantification, and applications and advancement of neural networks to engineering problems. 
 
 interests:
 - Mechanics of Solids and Granular Media
