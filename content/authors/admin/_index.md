@@ -81,7 +81,7 @@ user_groups:
 
 I am a Research Associate at the Oden Institute for Computational Engineering and Sciences at the University of Texas at Austin. I received a Ph.D. from Civil and Environmental Engineering, Carnegie Mellon University, in August 2016. After finishing my Ph.D., I joined the Department of Mathematics at Louisiana State University as a Postdoctoral Fellow and worked on numerical methods and analysis of the peridynamics theory of fracture. I moved to UT Austin in August 2019 to further expand my expertise and knowledge in computational mechanics. My research interests include solids and granular media mechanics, computational oncology, uncertainty quantification, and multiscale modeling. 
 
-Last year in Fall, I taught two undergraduate courses on numerical methods. I am also serving the [**Journal of Peridynamics and Nonlocal Modeling**](https://www.springer.com/journal/42102/) as one of the associate editors and the [**Journal of Open Source Software (JOSS)**](https://joss.theoj.org/about) as topic editor.
+In Fall 2021, I taught two undergraduate courses on numerical methods. I am also serving the [**Journal of Peridynamics and Nonlocal Modeling**](https://www.springer.com/journal/42102/) as one of the associate editors and the [**Journal of Open Source Software (JOSS)**](https://joss.theoj.org/about) as topic editor.
 
 
 
