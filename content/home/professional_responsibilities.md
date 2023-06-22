@@ -45,5 +45,8 @@ date_format = "Jan 2006"
 ### 2. Topic Editor
 [Journal of Open Source Software (JOSS)](https://joss.theoj.org/about)
 
-### 3. Journal Reviews
+### 3. Editorial Board Member
+[Scientific Reports](https://www.nature.com/srep/)
+
+### 4. Journal Reviews
 CMAME, JMPS, SINUM, M3AS, JALCOM, PHYSA, Mathematical Reviews (AMS)
