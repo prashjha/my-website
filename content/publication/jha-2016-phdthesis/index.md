@@ -1,5 +1,5 @@
 ---
-title: "Coarse graining of electric field interactions with materials
+title: "Coarse Graining of Electric Field Interactions With Materials
 "
 date: 2016-08-01
 publishDate: 2016

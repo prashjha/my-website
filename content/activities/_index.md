@@ -1,5 +1,5 @@
 ---
-title: News
+title: Professional Activities
 type: software
 math: true
 

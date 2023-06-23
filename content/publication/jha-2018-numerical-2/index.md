@@ -1,5 +1,5 @@
 ---
-title: "Numerical convergence of nonlinear nonlocal continuum models to local elastodynamics"
+title: "Numerical Convergence of Nonlinear Nonlocal Continuum Models to Local Elastodynamics"
 date: 2018-05-24
 publishDate: 2018-05-24
 authors: ["Prashant K Jha", "Robert Lipton"]

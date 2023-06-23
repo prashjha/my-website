@@ -1,5 +1,5 @@
 ---
-title: "Analysis of a new multispecies tumor growth model coupling 3D phase-fields with a 1D vascular network"
+title: "Analysis of a New Multispecies Tumor Growth Model Coupling 3D Phase-Fields With a 1D Vascular Network"
 date: 2021-10-01
 publishDate: 2021-10-01
 authors: ["Marvin Fritz", "Prashant K Jha", "Tobias Köppl", "J Tinsley Oden", "Barbara Wohlmuth"]

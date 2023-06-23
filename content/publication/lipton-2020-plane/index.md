@@ -1,5 +1,5 @@
 ---
-title: "Nonlocal elastodynamics and fracture"
+title: "Nonlocal Elastodynamics and Fracture"
 date: 2021-03-17
 publishDate: 2021-03-17
 authors: ["Robert P Lipton", "Prashant K Jha"]

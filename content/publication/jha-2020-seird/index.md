@@ -1,5 +1,5 @@
 ---
-title: "Bayesian-based predictions of COVID-19 evolution in Texas using multispecies mixture-theoretic continuum models"
+title: "Bayesian-Based Predictions of COVID-19 Evolution in Texas Using Multispecies Mixture-Theoretic Continuum Models"
 date: 2020-11-01
 publishDate: 2020-11-01
 authors: ["Prashant K Jha", "Lianghao Cao", "J Tinsley Oden"]

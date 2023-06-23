@@ -1,5 +1,5 @@
 ---
-title: "Numerical convergence of finite difference approximations for state based peridynamic fracture models"
+title: "Numerical Convergence of Finite Difference Approximations for State-Based Peridynamic Fracture Models"
 date: 2019-07-01
 publishDate: 2019-07-01
 authors: ["Prashant K Jha", "Robert Lipton"]

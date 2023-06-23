@@ -29,8 +29,6 @@ date_format = "Jan 2006"
 
 +++
 
-### A mechanistic tumor growth model for HP MRI
+### A Mechanistic Tumor Growth Model for HP MRI
 
-With David Fuentes at MD Anderson Cancer Center, Houston, USA. Awarded under the MDACC-Oden-TACC joint initiative.
-
-$50,000 (Sep 2020 -- Aug 2021)
+With David Fuentes at MD Anderson Cancer Center, Houston, USA. Awarded under the MDACC-Oden-TACC joint initiative. $50k (Sep 2020 -- Aug 2021)

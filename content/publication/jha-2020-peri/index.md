@@ -1,5 +1,5 @@
 ---
-title: "Kinetic relations and local energy balance for LEFM from a nonlocal peridynamic model"
+title: "Kinetic Relations and Local Energy Balance for LEFM from a Nonlocal Peridynamic Model"
 date: 2020-11-01
 publishDate: 2020-11-01
 authors: ["Prashant K Jha", "Robert P Lipton"]
@@ -15,6 +15,5 @@ tags:
 - Linear Elastic Fracture Mechanics
 - Griffiths Criterion
 - Fracture Simulation
-- Featured
 ---
 

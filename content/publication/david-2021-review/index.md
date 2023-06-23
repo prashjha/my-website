@@ -1,6 +1,6 @@
 ---
-title: "Biologically-based mathematical modeling of tumor vasculature and
-angiogenesis via time-resolved imaging data"
+title: "Biologically-Based Mathematical Modeling of Tumor Vasculature and
+Angiogenesis via Time-Resolved Imaging Data"
 date: 2021-06-16
 publishDate: 2021-06-16
 authors: ["David A. Hormuth II", "Caleb M. Phillips", "Chengyue Wu", "Ernesto A.

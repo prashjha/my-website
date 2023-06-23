@@ -18,14 +18,14 @@ organizations:
   url: "https://www.utexas.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on using mechanics, applied mathematics, and computational science to understand and represent the complex behavior of materials, e.g., crack propagation and multiphysics effects in materials and particle breakage and interlocking in granular media. My research expertise and interests include mechanics of solids and granular media, multiphysics and multiscale modeling of engineering and biomedical systems, uncertainty quantification, and applications and advancement of neural networks to engineering problems. 
+bio: My research uses mechanics, applied mathematics, and computational science to understand and represent the complex behavior of materials, e.g., multiphysics effects in materials, material damage, crack propagation, and high-fidelity simulation of granular media involving arbitrarily shaped particles and particle breakage. My interests include the mechanics of smart materials, focusing on functional soft and granular materials. 
 
 interests:
+- Fracture Mechanics
 - Mechanics of Solids and Granular Media
 - Multiphysics and Multiscale Modeling
-- Computational Oncology
+- Scientific Machine Learning
 - Uncertainty Quantification
-- Application of Neural Networks to Engineering Problems
 
 
 education:
@@ -79,9 +79,9 @@ user_groups:
 - Visitors
 ---
 
-I am a Research Associate at the Oden Institute for Computational Engineering and Sciences at the University of Texas at Austin. I received a Ph.D. from Civil and Environmental Engineering, Carnegie Mellon University, in August 2016. After finishing my Ph.D., I joined the Department of Mathematics at Louisiana State University as a Postdoctoral Fellow and worked on numerical methods and analysis of the peridynamics theory of fracture. I moved to UT Austin in August 2019 to further expand my expertise and knowledge in computational mechanics. My research interests include solids and granular media mechanics, computational oncology, uncertainty quantification, and multiscale modeling. 
+I am a Research Associate at the Oden Institute for Computational Engineering and Sciences at the University of Texas at Austin. I received a Ph.D. in Civil and Environmental Engineering from Carnegie Mellon University in August 2016. After finishing my Ph.D., I joined the Department of Mathematics at Louisiana State University as a Postdoctoral Fellow and worked on numerical methods and analysis of the peridynamics theory of fracture. I moved to UT Austin in August 2019 to further expand my expertise and knowledge in computational mechanics. My research interests include solids and granular media mechanics, fracture mechanics, multiphysics and multiscale modeling, and applications of neural networks to engineering problems. 
 
-In Fall 2021, I taught two undergraduate courses on numerical methods. I am also serving the [**Journal of Peridynamics and Nonlocal Modeling**](https://www.springer.com/journal/42102/) as one of the associate editors and the [**Journal of Open Source Software (JOSS)**](https://joss.theoj.org/about) as topic editor.
+In Fall 2021, I taught two undergraduate courses on numerical methods. I am serving the [**Journal of Peridynamics and Nonlocal Modeling**](https://www.springer.com/journal/42102/) as one of the associate editors and the [**Journal of Open Source Software (JOSS)**](https://joss.theoj.org/about) as topic editor. Recently, I joined the editorial team of [**Scientific Reports**](https://www.nature.com/srep/) as an Editorial Board Member.
 
 
 

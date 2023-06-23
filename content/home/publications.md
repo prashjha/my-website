@@ -8,14 +8,14 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = ""
+subtitle = "<a href='/publication/'>See all publications</a>"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 4
+  count = 5
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "Featured"
+    tag = ""
     category = ""
     publication_type = ""
     author = ""

@@ -1,5 +1,5 @@
 ---
-title: "Peridynamics-based discrete element method (PeriDEM) model of granular systems involving breakage of arbitrarily shaped particles"
+title: "Peridynamics-Based Discrete Element Method (PeriDEM) Model of Granular Systems Involving Breakage of Arbitrarily Shaped Particles"
 date: 2021-06-01
 publishDate: 2021-06-01
 authors: ["Prashant K Jha", "Prathamesh S Desai", "Debdeep Bhattacharya", "Robert P Lipton"]
@@ -17,6 +17,5 @@ tags:
 - Particle Breakage
 - Particle Interlocking
 - Deformable Particles
-- Featured
 ---
 

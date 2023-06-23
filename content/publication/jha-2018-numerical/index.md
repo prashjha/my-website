@@ -1,5 +1,5 @@
 ---
-title: "Numerical analysis of nonlocal fracture models in Holder space"
+title: "Numerical Analysis of Nonlocal Fracture Models in Holder Space"
 date: 2018-04-10
 publishDate: 2018-04-10
 authors: ["Prashant K Jha", "Robert Lipton"]

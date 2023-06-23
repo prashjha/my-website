@@ -1,5 +1,5 @@
 ---
-title: "Finite element approximation of nonlocal dynamic fracture models"
+title: "Finite Element Approximation of Nonlocal Dynamic Fracture Models"
 date: 2021-03-01
 publishDate: 2021-03-01
 authors: ["Prashant K Jha", "Robert Lipton"]

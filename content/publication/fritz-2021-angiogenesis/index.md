@@ -1,5 +1,5 @@
 ---
-title: "Modeling and simulation of vascular tumors embedded in evolving capillary networks"
+title: "Modeling and Simulation of Vascular Tumors Embedded in Evolving Capillary Networks"
 date: 2021-10-01
 publishDate: 2021-10-01
 authors: ["Marvin Fritz", "Prashant K Jha", "Tobias Köppl", "J Tinsley Oden", "Andreas Wagner", "Barbara Wohlmuth"]

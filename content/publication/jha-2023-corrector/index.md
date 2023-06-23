@@ -15,7 +15,6 @@ tags:
 - Partial Differential Equations
 - Topology Optimization
 - Computational Methods
-- Featured
 ---
 
 | ![](files/movie.gif) | 

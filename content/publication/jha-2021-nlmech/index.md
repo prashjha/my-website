@@ -1,5 +1,5 @@
 ---
-title: "NLMech: Implementation of finite difference/meshfree discretization of nonlocal fracture models"
+title: "NLMech: Implementation of Finite Difference/Meshfree Discretization of Nonlocal Fracture Models"
 date: 2021-09-29
 publishDate: 2021-09-29
 authors: ["Prashant K Jha", "Patrick Diehl"]

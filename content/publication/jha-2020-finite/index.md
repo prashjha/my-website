@@ -1,5 +1,5 @@
 ---
-title: "Finite element convergence for state-based peridynamic fracture models"
+title: "Finite Element Convergence for State-Based Peridynamic Fracture Models"
 date: 2020-03-01
 publishDate: 2020-03-01
 authors: ["Prashant K Jha", "Robert Lipton"]

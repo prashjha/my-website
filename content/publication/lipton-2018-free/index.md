@@ -1,5 +1,5 @@
 ---
-title: "Free damage propagation with memory"
+title: "Free Damage Propagation With Memory"
 date: 2018-12-01
 publishDate: 2018-12-01
 authors: ["Robert Lipton", "Eyad Said", "Prashant K Jha"]

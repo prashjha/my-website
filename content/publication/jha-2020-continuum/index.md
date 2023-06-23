@@ -15,6 +15,5 @@ tags:
 - Electrostatics
 - Dipole-Dipole Interaction
 - Multiscale Methods
-- Featured
 ---
 

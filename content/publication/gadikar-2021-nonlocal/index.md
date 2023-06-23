@@ -1,5 +1,5 @@
 ---
-title: "Load balancing for distributed nonlocal models within asynchronous many-task systems"
+title: "Load Balancing for Distributed Nonlocal Models Within Asynchronous Many-Task Systems"
 date: 2021-06-24
 publishDate: 2021-06-24
 authors: ["Pranav Gadikar", "Patrick Diehl", "Prashant K Jha"]

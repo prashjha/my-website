@@ -56,7 +56,7 @@ We explore using neural operators, or neural network representations of nonlinea
 
 This work is published in JCP and can be found in this link: [Cao et al. (2023)]( {{< relref "publication/cao-2022-residual" >}}).
 
-| ![](files/bip/hyper-nop-corr.png) | 
+| ![](files/bip/hyper-nop.png) | 
 | :----: | 
 | *Mean of posterior samples of Young's modulus field in a neo-Hookean hyperelastic material model. Left: Results with "true" forward model. Right: Results with neural operators as surrogates of the forward model.* |
 

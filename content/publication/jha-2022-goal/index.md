@@ -14,5 +14,4 @@ tags:
 - Variational Formulation
 - Goal-Oriented A-Posteriori Estimates
 - Uncertainty Quantification
-- Featured
 ---

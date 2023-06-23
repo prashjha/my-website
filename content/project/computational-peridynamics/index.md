@@ -10,7 +10,7 @@ summary = "Develop efficient and parallel computational methods for class of non
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["peridynamics", "nonlocal", "computational mechanics", "programming"]
+tags = ["peridynamics", "nonlocal", "computational mechanics", "programming", "computational methods", "mechanics"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

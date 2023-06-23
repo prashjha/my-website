@@ -3,14 +3,14 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 18  # Order that this section will appear.
+weight = 85  # Order that this section will appear.
 
-title = "News"
+title = "Professional Activities"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "news"
+  page_type = "activities"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.

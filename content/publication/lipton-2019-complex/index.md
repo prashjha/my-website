@@ -1,5 +1,5 @@
 ---
-title: "Complex fracture nucleation and evolution with nonlocal elastodynamics"
+title: "Complex Fracture Nucleation and Evolution With Nonlocal Elastodynamics"
 date: 2019-10-01
 publishDate: 2019-10-01
 authors: ["Robert P Lipton", "Richard B Lehoucq", "Prashant K Jha"]

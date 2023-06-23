@@ -1,5 +1,5 @@
 ---
-title: "An asynchronous and task-based implementation of peridynamics utilizing HPX—the C++ standard library for parallelism and concurrency"
+title: "An Asynchronous and Task-Based Implementation of Peridynamics Utilizing HPX—the C++ Standard Library for Parallelism and Concurrency"
 date: 2020-12-04
 publishDate: 2020-12-04
 authors: ["Patrick Diehl", "Prashant K Jha", "Hartmut Kaiser", "Robert Lipton", "Martin Levesque"]
