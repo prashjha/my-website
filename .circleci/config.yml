@@ -22,7 +22,12 @@ jobs:
             cd my-website
             # within this repo, pull html file repo
             git clone https://github.com/prashjha/prashjha.github.io.git public
+            # clean public folder
+            cd public
+            git rm -r .
+            git commit -m "cleaning"
             # build website
+            cd ..
             HUGO_ENV="production"  hugo -F
             # commit to website repo
             cd public
