@@ -17,6 +17,9 @@ jobs:
             # apt-get update
             apt-get install -y ca-certificates
             apt-get install -y git
+            # git config
+            git config user.email "pjha.sci@gmail.com"
+            git config user.name "Prashant K. Jha"
             # pull website repo
             git clone https://github.com/prashjha/my-website.git
             cd my-website
@@ -31,8 +34,6 @@ jobs:
             HUGO_ENV="production"  hugo -F
             # commit to website repo
             cd public
-            git config user.email "pjha.sci@gmail.com"
-            git config user.name "Prashant K. Jha"
             git add .
             git commit --allow-empty -m "update" 
             # Push quietly to prevent showing the token in log
