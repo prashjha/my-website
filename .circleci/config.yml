@@ -18,8 +18,8 @@ jobs:
             apt-get install -y ca-certificates
             apt-get install -y git
             # git config
-            git config user.email "pjha.sci@gmail.com"
-            git config user.name "Prashant K. Jha"
+            git config --global user.email "pjha.sci@gmail.com"
+            git config --global user.name "Prashant K. Jha"
             # pull website repo
             git clone https://github.com/prashjha/my-website.git
             cd my-website
