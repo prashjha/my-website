@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Associate
+role: Lecturer (Assistant Professor)
 
 # Organizations/Affiliations
 organizations:
