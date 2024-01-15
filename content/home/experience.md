@@ -17,13 +17,22 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Lecturer (Assistant Professor)"
+  company = "University of Portsmouth"
+  company_url = "https://www.port.ac.uk/about-us/structure-and-governance/organisational-structure/our-academic-structure/faculty-of-technology/school-of-mechanical-and-design-engineering"
+  location = "Portsmouth"
+  date_start = "2023-11-20"
+  date_end = ""
+
 [[experience]]
   title = "Research Associate"
   company = "The University of Texas at Austin"
   company_url = "https://www.oden.utexas.edu/"
   location = "Austin"
   date_start = "2020-11-23"
-  date_end = ""
+  date_end = "2023-11-10"
 
 [[experience]]
   title = "Postdoctoral Scholar"
