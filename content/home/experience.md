@@ -19,12 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Assistant Professor"
+  company = "South Dakota School of Mines and Technology"
+  company_url = "https://www.sdsmt.edu/academics/academic-departments/mechanical-engineering/index.html"
+  location = "Rapid City"
+  date_start = "2024-09-01"
+  date_end = ""
+
+[[experience]]
   title = "Lecturer (Assistant Professor)"
   company = "University of Portsmouth"
   company_url = "https://www.port.ac.uk/about-us/structure-and-governance/organisational-structure/our-academic-structure/faculty-of-technology/school-of-mechanical-and-design-engineering"
   location = "Portsmouth"
   date_start = "2023-11-20"
-  date_end = ""
+  date_end = "2024-08-31"
 
 [[experience]]
   title = "Research Associate"
