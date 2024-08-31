@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer (Assistant Professor)
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of Portsmouth
-  url: "https://www.port.ac.uk/about-us/structure-and-governance/organisational-structure/our-academic-structure/faculty-of-technology/school-of-mechanical-and-design-engineering"
+- name: South Dakota School of Mines and Technology
+  url: "https://www.sdsmt.edu/academics/academic-departments/mechanical-engineering/faculty-and-staff.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research uses mechanics, applied mathematics, and computational science to understand and represent the complex behavior of materials, e.g., multiphysics effects in materials, material damage, crack propagation, and high-fidelity simulation of granular media involving arbitrarily shaped particles and particle breakage. My interests include the mechanics of smart materials, focusing on functional soft and granular materials. 
