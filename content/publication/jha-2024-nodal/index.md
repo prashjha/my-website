@@ -15,4 +15,4 @@ tags:
 - Numerical Analysis
 ---
 
-> Accepted for the publication in Computer Methods in Applied Mechanics and Engineering (CMAME)!!
+> Accepted for publication in Computer Methods in Applied Mechanics and Engineering (CMAME)!!
