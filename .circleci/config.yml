@@ -9,15 +9,14 @@ version: 2
 jobs:
   build:
     docker:
-      - image: felicianotech/docker-hugo:0.145.0
+      - image: cibuilds/hugo:latest
 
     steps:
       - run:
           name: "Run Hugo"
           command: |
             # apt-get update
-            apt-get install -y ca-certificates
-            apt-get install -y git
+            apk update && apk add git
             # git config
             git config --global user.email "pjha.sci@gmail.com"
             git config --global user.name "Prashant K. Jha"
