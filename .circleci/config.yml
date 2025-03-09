@@ -16,8 +16,8 @@ jobs:
           name: "Run Hugo"
           command: |
             # apt-get update
-            apt-get install -y ca-certificates
-            apt-get install -y git
+            sudo apt-get install -y ca-certificates
+            sudo apt-get install -y git
             # hugo version
             hugo version
             # git config
