@@ -12,10 +12,12 @@ jobs:
       - image: cibuilds/hugo:0.145.0
 
     steps:
-      - run: apk update && apk add git
       - run:
           name: "Run Hugo"
           command: |
+            # apt-get update
+            apt-get install -y ca-certificates
+            apt-get install -y git
             # hugo version
             hugo version
             # git config
