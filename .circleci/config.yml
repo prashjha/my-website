@@ -1,0 +1,40 @@
+# ----------------------------------
+# Copyright (c) 2021 Prashant K. Jha
+# ----------------------------------
+#
+# Distributed under the Boost Software License, Version 1.0. (See accompanying
+# file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
+
+version: 2
+jobs:
+  build:
+    docker:
+      - image: klakegg/hugo:0.111.3-ext-ubuntu-ci
+    steps:
+      - run:
+          name: "Run Hugo"
+          command: |
+            # apt-get update
+            apt-get install -y ca-certificates
+            apt-get install -y git
+            # git config
+            git config --global user.email "pjha.sci@gmail.com"
+            git config --global user.name "Prashant K. Jha"
+            # pull website repo
+            git clone https://github.com/prashjha/my-website.git
+            cd my-website
+            # within this repo, pull html file repo
+            git clone https://github.com/prashjha/prashjha.github.io.git public
+            # clean public folder
+            cd public
+            git rm -r .
+            git commit -m "cleaning"
+            # build website
+            cd ..
+            HUGO_ENV="production"  hugo -F
+            # commit to website repo
+            cd public
+            git add .
+            git commit --allow-empty -m "update" 
+            # Push quietly to prevent showing the token in log
+            git push -q https://${G_TOKEN}@github.com/prashjha/prashjha.github.io.git main

@@ -1,0 +1,63 @@
+# SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+appearance:
+  mode: system
+  color: emerald
+  font_size: M
+
+# SEO
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: 'My research interests include fracture and failure in materials, functional soft materials, and granular materials'
+    twitter: 'prashant_jha16'
+  analytics:
+    google_analytics: 'UA-132780463-3'
+    baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+header:
+  navbar:
+    enable: true
+    blox: "navbar"
+    fixed_to_top: true
+    show_search: true
+    show_theme_chooser: true
+    highlight_active_link: true
+    logo:
+      text: "Prashant K. Jha"
+
+# Site footer
+footer:
+  copyright:
+    notice: '© {year} Prashant K. Jha. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+# Localization
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
+
+# Site features
+features:
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
