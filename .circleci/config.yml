@@ -9,7 +9,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: hugomods/hugo:std-ci-0.145.0
+      - image: felicianotech/docker-hugo:0.143.0
 
     steps:
       - run:
