@@ -15,7 +15,7 @@ publishDate: "2025-03-07"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*arXiv preprint*"
+publication: "*arXiv preprint*	**arXiv:2503.05598**"
 publication_short: "arXiv"
 
 abstract: "This focused review explores a range of neural operator architectures for approximating solutions to parametric partial differential equations (PDEs), emphasizing high-level concepts and practical implementation strategies. The study covers foundational models such as Deep Operator Networks (DeepONet), Principal Component Analysis-based Neural Networks (PCANet), and Fourier Neural Operators (FNO), providing comparative insights into their core methodologies and performance. These architectures are demonstrated on two classical linear parametric PDEs—the Poisson equation and linear elastic deformation. Beyond forward problem-solving, the review delves into applying neural operators as surrogates in Bayesian inference problems, showcasing their effectiveness in accelerating posterior inference while maintaining accuracy. The paper concludes by discussing current challenges, particularly in controlling prediction accuracy and generalization. It outlines emerging strategies to address these issues, such as residual-based error correction and multi-level training. This review can be seen as a comprehensive guide to implementing neural operators and integrating them into scientific computing workflows."
@@ -32,7 +32,7 @@ tags:
 featured: true
 
 # links:
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2503.05598'
 url_code: 'https://github.com/CEADpx/neural_operators'
-url_source: ''
+url_source: 'https://arxiv.org/abs/2503.05598'
 ---
