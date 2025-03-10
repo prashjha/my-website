@@ -75,7 +75,7 @@ jobs:
             echo "Copy files from my-website to ceadpx-website"
             echo "#-----------------------------#"
             declare -a fldrs=("event" "post" "project" "publication" "software" "teaching")
-            for s in ${suf[@]}; do
+            for s in ${fldrs[@]}; do
                 # clean and copy
                 echo "Removing ${s} folder"
                 rm -r content/${s}
