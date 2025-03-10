@@ -77,11 +77,14 @@ jobs:
             declare -a fldrs=("event" "post" "project" "publication" "software" "teaching")
             for s in ${suf[@]}; do
                 # clean and copy
+                echo "Removing ${s} folder"
                 rm -r content/${s}
+                echo "Copying ${s} folder from my-website"
                 cp -r ../my-website/content/${s} content/${s}
             done
             # copy CV
-            cp -a ../my-website/static/uploads/cv.pdf static/uploads/
+            echo "Copying cv.pdf from my-website"
+            cp -av ../my-website/static/uploads/cv.pdf static/uploads/
             echo "#-----------------------------#"
             echo "Commit updates"
             echo "#-----------------------------#"
