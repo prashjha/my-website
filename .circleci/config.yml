@@ -80,6 +80,11 @@ jobs:
                 rm -r content/${s}
                 cp -r ../my-website/content/${s} content/${s}
             done
+            # copy CV
+            cp -a ../my-website/static/uploads/cv.pdf static/uploads/
+            echo "#-----------------------------#"
+            echo "Commit updates"
+            echo "#-----------------------------#"
             git add .
             git commit --allow-empty -m "update" 
             echo "#-----------------------------#"
