@@ -10,6 +10,9 @@ main:
   - name: Experience
     url: experience/
     weight: 20
+  - name: News
+    url: post
+    weight: 25
   - name: Publications
     url: publication
     weight: 30
@@ -22,9 +25,6 @@ main:
   - name: Teaching
     url: teaching
     weight: 60
-  - name: News
-    url: post
-    weight: 70
   - name: Events
     url: event
     weight: 80
