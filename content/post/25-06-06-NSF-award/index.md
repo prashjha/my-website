@@ -16,6 +16,6 @@ This project will focus on developing an **Adaptive Multi-Fidelity Framework for
 > We are actively seeking enthusiastic undergraduate and graduate students interested in computational mechanics and applying advanced numerical and machine learning-based methods to problems in fracture mechanics, functional soft materials, and granular materials. [Interested candidates should email me here!](mailto:prashant.jha@sdsmt.edu)
 
 
-| ![](files/sim.gif) | 
+| ![](sim.gif) | 
 | :----: | 
 | *Simulation of particle-particle interaction and damage using PeriDEM* |
