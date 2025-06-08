@@ -13,7 +13,7 @@ tags: ['Peridynamics', 'Contact Mechanics', 'Granular Media', 'Particle Fracture
 featured: false
 
 image:
-  caption: 'Compressive test using PeriDEM'
+  caption: 'PeriDEM simulation'
   focal_point: Smart
 ---
 
@@ -30,3 +30,8 @@ Documentation:
 Developers:
  
 - Prashant K. Jha
+
+
+| ![](sim.gif) | 
+| :----: | 
+| *PeriDEM simulation collection* |

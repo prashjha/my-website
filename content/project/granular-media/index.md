@@ -45,6 +45,6 @@ Taking the earlier research on peridynamics for granular media forward, we have 
 | :---: | 
 | *Fracture simulation with concave particles.* |
 
-| ![](files/compressive_test.gif) | 
+| ![](files/sim.gif) | 
 | :----: | 
-| *Compressive test simulation* |
+| *PeriDEM simulation collection* |
