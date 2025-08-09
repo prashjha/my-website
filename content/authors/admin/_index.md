@@ -217,9 +217,9 @@ languages:
 #       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 ---
 
-## About Me
-
 I am an Assistant Professor in the Department of Mechanical Engineering at the South Dakota School of Mines and Technology. Before taking this position, I worked at the University of Portsmouth as a Mechanical Engineering Lecturer (Asst. Prof.). I received a Ph.D. in Civil and Environmental Engineering from Carnegie Mellon University in August 2016. After finishing my Ph.D., I joined the Department of Mathematics at Louisiana State University as a Postdoctoral Fellow and worked on numerical methods and analysis of the peridynamics theory of fracture. I then moved to the Oden Institute at UT Austin to gain experience in the computational mechanics of multiphysics and complex systems. 
 
 My research interests include solids and granular media mechanics, fracture mechanics, multiphysics and multiscale modeling, and applications of neural networks to engineering problems. I am serving the [**Journal of Peridynamics and Nonlocal Modeling**](https://www.springer.com/journal/42102/) as one of the associate editors, the [**Journal of Open Source Software (JOSS)**](https://joss.theoj.org/about) as topic editor, and I am an Editorial Board Member of [**Scientific Reports**](https://www.nature.com/srep/).
 
+[**CEAD Lab website**](https://ceadpx.github.io/)
+-

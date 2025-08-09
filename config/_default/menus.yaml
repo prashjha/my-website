@@ -7,6 +7,10 @@ main:
   - name: Bio
     url: /
     weight: 10
+  - name: CEAD Lab
+    url: https://ceadpx.github.io/
+    external: true
+    weight: 15
   - name: Experience
     url: experience/
     weight: 20
@@ -31,7 +35,7 @@ main:
   - name: CV
     url: uploads/cv.pdf
     weight: 90
-  - name: 'GitHub'
-    url: "https://github.com/prashjha/"
-    external: true
-    weight: 100
+  # - name: 'GitHub'
+  #   url: "https://github.com/prashjha/"
+  #   external: true
+  #   weight: 100
