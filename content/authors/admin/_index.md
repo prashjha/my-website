@@ -221,5 +221,10 @@ I am an Assistant Professor in the Department of Mechanical Engineering at the S
 
 My research interests include solids and granular media mechanics, fracture mechanics, multiphysics and multiscale modeling, and applications of neural networks to engineering problems. I am serving the [**Journal of Peridynamics and Nonlocal Modeling**](https://www.springer.com/journal/42102/) as one of the associate editors, the [**Journal of Open Source Software (JOSS)**](https://joss.theoj.org/about) as topic editor, and I am an Editorial Board Member of [**Scientific Reports**](https://www.nature.com/srep/).
 
+---
+
+[**PhD Position Available**]({{< relref "post/25-09-09-cead-phd-flyer" >}})
+
 [**CEAD Lab website**](https://ceadpx.github.io/)
--
+
+---
