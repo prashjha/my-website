@@ -9,3 +9,4 @@ image:
   focal_point: 'Smart'
 ---
 
+See attached flyer PDF.
