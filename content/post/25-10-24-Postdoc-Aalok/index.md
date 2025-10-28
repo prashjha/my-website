@@ -13,4 +13,4 @@ We are excited to welcome Dr. Aalok Jha to Computational Engineering Analysis an
 
 Welcome, Dr. Jha.
 
->! [Dr. Aalok Jha's profile]({{< relref "authors/aalok" >}})
+>! [Dr. Aalok Jha's profile](https://ceadpx.github.io/author/aalok-kumar-jha/)
