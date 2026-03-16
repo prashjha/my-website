@@ -1,5 +1,5 @@
 ---
-title: "An Information-Theoretic Framework for Optimal Experimental Design in Magnetic Nanoparticle Hyperthermia"
+title: "An information-theoretic framework for optimal experimental design in magnetic nanoparticle hyperthermia"
 
 authors:
 - Mahesh Nandyala
@@ -14,19 +14,18 @@ authors:
 author_notes:
 - "Corresponding author"
 date: "2025-03-31"
-doi: ''
+doi: '10.1016/j.apm.2026.116861'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-03-31"
+publishDate: "2026-02-20"
 
 # Publication type.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*SSRN preprint*	**SSRN 5200413**"
-publication_short: "SSRN"
+publication: "*Applied Mathematical Modelling*"
 
-abstract: "Magnetic nanoparticle hyperthermia is an emerging cancer therapy that utilizes magnetic nanoparticles subjected to alternating magnetic fields to generate localized heating and selectively target tumor tissues. Despite its potential, clinical implementation faces significant challenges due to uncertainties in the thermophysical properties, nanoparticle distribution, and magnetic particle parameters, which can compromise the precision and efficacy of the treatment. This article introduces an information-theoretic framework for optimal experimental design in magnetic nanoparticle hyperthermia to address these challenges. By accounting for uncertainties in key parameters, such as tissue thermal conductivity, blood perfusion rate, and nanoparticle anisotropy constant, the framework maximizes mutual information between the observed data and model parameters, enhancing the accuracy of parameter estimation. A surrogate 1D model is employed to reduce computational complexity, allowing the identification of optimal magnetic field amplitudes across diverse initial conditions and scenarios, including single and multiple uncertain parameters. The results highlight the robustness of the optimization approach, demonstrating consistent convergence to a stable solution that is expected to enable precise temperature measurement and effective parameter recovery. This study underscores the potential for mutual information-based optimization to advance the planning of magnetic nanoparticle hyperthermia treatment and provides a foundation for future experimental and clinical applications."
+abstract: "Magnetic nanoparticle hyperthermia is a promising cancer treatment that achieves localized tumor heating through exposure to alternating magnetic fields. However, its clinical translation is limited by uncertainties in thermophysical tissue properties, nanoparticle distribution, and intrinsic magnetic characteristics, which hinder accurate temperature prediction and treatment planning. This study presents an information-theoretic framework for optimal experimental design that systematically addresses these uncertainties to enhance the precision of hyperthermia protocols. By maximizing mutual information between measurable temperature elevations and uncertain model parameters, including tissue density, specific heat, thermal conductivity, blood perfusion rate, and nanoparticle anisotropy constant, the framework identifies optimal magnetic field amplitudes that improve parameter identifiability. A one-dimensional surrogate model of the Pennes bioheat equation, coupled with linear response theory for nanoparticle heating, enables eﬃcient simulation of thermal outcomes across varying initial conditions and uncertainty scenarios. The method consistently converged to optimal magnetic field amplitudes across both single and multiple-uncertain-parameter cases for a wide range of initial conditions, including constant, random, oscillatory, and near-zero magnetic fields, demonstrating robustness with respect to diverse initial conditions. Independent Monte Carlo-based optimization and verification confirmed that the proposed mutual information framework consistently identifies the same optimal magnetic field protocols, demonstrating robustness with respect to the numerical integration strategy used to evaluate information gain. These findings highlight the framework’s potential as a rigorous and computationally eﬃcient tool for data-driven, uncertainty-aware experimental design in magnetic nanoparticle hyperthermia. Its application may inform improved parameter estimation and guide more eﬀective, individualized thermal treatment strategies in both preclinical studies and future clinical translation."
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -35,10 +34,11 @@ tags:
 - Optimal Experimental Design
 - Information Theory
 - Magnetic Nanoparticle Hyperthermia
+- Optimization
+- Mutual Information
 
-featured: true
+featured: false
 
 # links:
-url_pdf: 'https://dx.doi.org/10.2139/ssrn.5200413'
-url_source: 'https://dx.doi.org/10.2139/ssrn.5200413'
+url_source: 'https://doi.org/10.1016/j.apm.2026.116861'
 ---
