@@ -12,13 +12,13 @@ doi: ''
 publishDate: "2025-03-07"
 
 # Publication type.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*arXiv preprint*	**arXiv:2503.05598**"
-publication_short: "arXiv"
+publication: "*Mathematics*"
+publication_short: "Mathematics"
 
-abstract: "This focused review explores a range of neural operator architectures for approximating solutions to parametric partial differential equations (PDEs), emphasizing high-level concepts and practical implementation strategies. The study covers foundational models such as Deep Operator Networks (DeepONet), Principal Component Analysis-based Neural Networks (PCANet), and Fourier Neural Operators (FNO), providing comparative insights into their core methodologies and performance. These architectures are demonstrated on two classical linear parametric PDEs—the Poisson equation and linear elastic deformation. Beyond forward problem-solving, the review delves into applying neural operators as surrogates in Bayesian inference problems, showcasing their effectiveness in accelerating posterior inference while maintaining accuracy. The paper concludes by discussing current challenges, particularly in controlling prediction accuracy and generalization. It outlines emerging strategies to address these issues, such as residual-based error correction and multi-level training. This review can be seen as a comprehensive guide to implementing neural operators and integrating them into scientific computing workflows."
+abstract: "This review examines neural operator architectures for learning solution operators of parametric partial differential equations (PDEs), with an emphasis on conceptual clarity and practical implementation. The work analyzes key models, including DeepONet, PCANet, and the Fourier Neural Operator, highlighting their underlying representations, computational structures, and comparative performance. These architectures are demonstrated on three canonical PDE problems: the Poisson equation, a linear elasticity problem, and a hyperelasticity problem. To make the presentation self-contained, key foundational topics are introduced, including finite-dimensional representations of function spaces, singular-value decomposition, and sampling from infinite-dimensional function spaces. Beyond forward modeling, the review discusses the use of neural operators as surrogate models within a Bayesian inverse-problem framework, including prior specification, forward-map approximation, and posterior computation. The performance of the three neural-operator architectures is evaluated on in-distribution samples, out-of-distribution samples, and Bayesian inference tasks. The review also discusses challenges related to prediction accuracy and generalization, outlining emerging strategies such as residual-based error correction and multi-level training. The review concludes by positioning neural operators within broader scientific-computing workflows and by identifying directions for reliable, scalable operator learning."
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -32,7 +32,7 @@ tags:
 featured: true
 
 # links:
-url_pdf: 'https://arxiv.org/pdf/2503.05598'
+url_pdf: 'https://www.mdpi.com/2227-7390/14/13/2421'
 url_code: 'https://github.com/CEADpx/neural_operators'
-url_source: 'https://arxiv.org/abs/2503.05598'
+url_source: 'https://www.mdpi.com/2227-7390/14/13/2421'
 ---
