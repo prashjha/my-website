@@ -1,0 +1,13 @@
+/* Keep the long desktop navigation readable without crowding the utility icons. */
+@media (min-width: 1024px) {
+  #nav-menu > .nav-item + .nav-item {
+    margin-left: 0.65rem;
+  }
+
+  #nav-menu .nav-link {
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+  }
+}

@@ -1,5 +1,5 @@
 ---
-title: 'ME 428/528 - Finite Element Analysis (Fall 2025)'
+title: 'ME 428/528 - Applied Finite Element Analysis (Fall 2025)'
 summary: 'Department of Mechanical Engineering, South Dakota School of Mines and Technology'
 date: '2025-08-01'
 # tags: ["Teaching", "Undergraduate Level"]
