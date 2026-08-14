@@ -74,13 +74,28 @@ jobs:
             echo "#-----------------------------#"
             echo "Copy files from my-website to ceadpx-website"
             echo "#-----------------------------#"
-            declare -a fldrs=("event" "post" "project" "publication" "software" "teaching")
-            for s in ${fldrs[@]}; do
+            declare -a fldrs=("event" "post" "project" "publication" "software")
+            for s in "${fldrs[@]}"; do
                 # clean and copy
                 echo "Removing ${s} folder"
-                rm -r content/${s}
+                rm -rf "content/${s}"
                 echo "Copying ${s} folder from my-website"
-                cp -r ../my-website/content/${s} content/${s}
+                cp -R "../my-website/content/${s}" "content/${s}"
+            done
+            echo "#-----------------------------#"
+            echo "Update shared teaching entries"
+            echo "#-----------------------------#"
+            # Preserve the CEAD-specific teaching landing page while replacing
+            # the shared course entries with those from my-website.
+            find content/teaching \
+                -mindepth 1 \
+                -maxdepth 1 \
+                ! -name '_index.md' \
+                -exec rm -rf -- {} +
+            for item in ../my-website/content/teaching/*; do
+                if [ "$(basename "$item")" != "_index.md" ]; then
+                    cp -R "$item" content/teaching/
+                fi
             done
             # copy CV
             echo "Copying cv.pdf from my-website"
